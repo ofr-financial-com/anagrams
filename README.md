@@ -120,7 +120,7 @@ Some advice:
 
 * The latest possible entry date is Friday, October 1st, 2021. 
 * The latest possible submission date is Friday, November 19th, 2021.
-* Benchmarking and grading will start on November, 1st, 2021.
+* Benchmarking and grading will start on November, 22nd, 2021.
 * Presentation of winners and entries will be likely done in December 2021.
 
 ## Prizes
