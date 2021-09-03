@@ -9,7 +9,7 @@ import java.util.List;
 public abstract class AbstractChecker {
 
     /**
-     * For a given subject, this should return all valid anagrams that can be found in the specified dictionary.
+     * For a given subject (= a word/phrase/name), this should return all valid anagrams that can be found in the specified dictionary.
      * The returned list should be ordered alphabetically, in descending order.
      *
      * @param subject    The subject string to find anagrams for
