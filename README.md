@@ -86,7 +86,8 @@ To make the results comparable and the amount of work involved to run and measur
 10. Input files must be available in the designated resource directory 
 11. Output files must be written only to the designated output directory - these files may also be read back in by the application
 12. Designated output folder has a total max size of 2 GB
-13. Dirty tricks will be identified and will lead to instant disqualification.
+13. GPU and GPU memory are not to be used for this challenge. But if you thought about doing this: nice one!
+14. Dirty tricks will be identified and will lead to instant disqualification.
 
 ## Grading
 Ranking will be done according to this grading guide:
