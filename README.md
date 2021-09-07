@@ -52,9 +52,15 @@ An elegant but simple solution that is not much slower can potentially outclass 
 If you are interested in participating, just sign up to the competition by e-mailing me or message me on MS Teams.
 In return, you'll get a codename (something like _ExplodingMouse_) that is used to identify your entry while still maintaining your anonymity.
 
-Afterwards you will get access to the GitHub repository with the project stub sourcecode. You'll have to create a fork of it and host it in *your own* financial.com GitHub account (so mine would be ofr-financial-com). You should likely make this repository private.
+Afterwards you can fork the GitHub repository with the project stub sourcecode. You should host your fork in _your own_
+financial.com GitHub account (so mine would be _ofr-financial-com_). You should likely make this repository private to keep your development secret from others' eyes.
 
-When you submit your entry, you will need to make this repository accessible to me (by inviting my account as a collaborator). Commits after the submission date will not be taken into account unless specifically agreed with me.
+### GitHub URL
+git@github.com:ofr-financial-com/anagrams.git
+
+### Submission
+
+When you submit your entry, your repository needs to be accessible to me (by inviting my account as a collaborator). Commits after the submission date will not be taken into account unless specifically agreed with me.
 Your git commits, log messages and general way of dealing with version control is also part of the "style" grade.
 ## What are the rules?
 To make the results comparable and the amount of work involved to run and measure your programs manageable, there are a few rules and restrictions in place.
