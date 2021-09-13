@@ -30,8 +30,8 @@ public abstract class AbstractChecker {
 
     /**
      * Checks two given strings whether they are anagrams of each other.
-     * An anagram means that both strings consist of exactly the same characters but in a different order.
-     * For this purpose, only anagrams that use the same amount of characters (not a subset) are valid anagrams.
+     * An anagram means that both strings consist of exactly the same letters but in a different order.
+     * For this purpose, only anagrams that use the same amount of letters (not a subset) are valid anagrams.
      * Example: For the subject "BRAINY", "BINARY" is an anagram.
      *
      * @param subject   The base string to make comparisons to
@@ -41,7 +41,7 @@ public abstract class AbstractChecker {
     public abstract boolean isAnagram(String subject, String candidate);
 
     /**
-     * For a given subject, find all anagrams that could be created for a substring of n=length characters
+     * For a given subject, find all anagrams that could be created for a substring of n=length letters
      *
      * @param subject    The base string to use a substring from
      * @param length     The length of the substring to restrict anagrams to
